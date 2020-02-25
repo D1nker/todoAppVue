@@ -2,6 +2,11 @@
 
 The well-known TodoApp built with Vue and Vuex in a structured way.
 
+## How to install
+
+npm i
+npm run serve
+
 ## Concepts and tools covered
 
 - [Vue CLI](https://cli.vuejs.org/)
